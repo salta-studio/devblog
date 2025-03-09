@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://salta-studio.github.io/devblog/sitemap.xml
