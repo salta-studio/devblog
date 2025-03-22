@@ -3,12 +3,40 @@
     <title>devblog</title>
     <link href="https://salta-studio.github.io/devblog/feed.xml" rel="self" />
     <link href="https://salta-studio.github.io/devblog" />
-    <updated>2025-03-22T11:34:20-06:00</updated>
+    <updated>2025-03-22T14:19:17-06:00</updated>
     <author>
         <name>thelastinuit</name>
     </author>
     <id>https://salta-studio.github.io/devblog</id>
 
+    <entry>
+        <title>[salta.studio] OÜ Applications</title>
+        <author>
+            <name>thelastinuit</name>
+        </author>
+        <link href="https://salta-studio.github.io/devblog/saltastudio-oue-applications/index.html"/>
+        <id>https://salta-studio.github.io/devblog/saltastudio-oue-applications/index.html</id>
+            <category term="[salta.studio]"/>
+
+        <updated>2025-03-22T14:19:17-06:00</updated>
+            <summary>
+                <![CDATA[
+                    A white thinned spiral emerges from a black triangle pulsing red, and slowly turns into lines that drift upward and fade into a blue field. What this could feel like: Birth from pain → rising confusion → cosmic connection It could symbolize Atlas’s awakening after a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://salta-studio.github.io/devblog/media/posts/14/Email-Attachment-from-Luisignac.gif" alt="" width="300" height="300"></figure>
+<blockquote>
+<p class="" data-start="2875" data-end="3033">A white thinned <strong data-start="2880" data-end="2890">spiral</strong> emerges from a <strong data-start="2920" data-end="2938">black triangle</strong> pulsing red, and slowly turns into <strong data-start="2974" data-end="2983">lines</strong> that drift upward and fade into a <strong data-start="3018" data-end="3032">blue field</strong>.</p>
+</blockquote>
+<p class="" data-start="3035" data-end="3228"><strong data-start="3035" data-end="3064">What this could feel like</strong>:</p>
+<p class="msg msg--info" data-start="3035" data-end="3228"><em>Birth from pain</em> <strong>→</strong> <em>rising confusion</em> <strong>→</strong> <em>cosmic connection</em></p>
+<p class="" data-start="3035" data-end="3228">It could symbolize <strong data-start="3146" data-end="3167">Atlas’s awakening</strong> after a traumatic event.</p>
+<p class="" data-start="3230" data-end="3304">It’s not about <em>translating</em> it. It’s about <strong data-start="3274" data-end="3303">inviting a state of being</strong>.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>[salta.studio] OÜ</title>
         <author>
@@ -370,45 +398,6 @@
 </ul>
 <p>Curiosamente no me he topado con una herramienta que tome un modelo 3D y lo haga polígono para recortar. Veo una área de oportunidad para hacer un software open source para la comunidad 🥰</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://salta-studio.github.io/devblog/media/posts/5/IMG_5982.png" alt="" width="1080" height="1750" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://salta-studio.github.io/devblog/media/posts/5/responsive/IMG_5982-xs.webp 300w ,https://salta-studio.github.io/devblog/media/posts/5/responsive/IMG_5982-sm.webp 480w ,https://salta-studio.github.io/devblog/media/posts/5/responsive/IMG_5982-md.webp 768w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>[salta.studio] the expected journey</title>
-        <author>
-            <name>thelastinuit</name>
-        </author>
-        <link href="https://salta-studio.github.io/devblog/saltastudio-the-expected-journey/index.html"/>
-        <id>https://salta-studio.github.io/devblog/saltastudio-the-expected-journey/index.html</id>
-            <category term="[salta.studio]"/>
-
-        <updated>2025-03-11T20:39:04-06:00</updated>
-            <summary>
-                <![CDATA[
-                    I'm writing in my bed. It's 8:18pm. I'm listening to Episode 03: Datassette. I just finished some tasks with Godot about a game I'm doing as a sandbox to learn the ups and downs of Godot. Before that I was writing Viatorem: Crystal Children. The&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I'm writing in my bed. It's 8:18pm. I'm listening to <a href="https://musicforprogramming.net/three"><em>Episode 03: Datassette</em></a>. I just finished some tasks with <a href="https://godotengine.org/">Godot</a> about a game I'm doing as a sandbox to learn the ups and downs of <a href="https://godotengine.org/">Godot</a>. Before that I was writing <strong>Viatorem</strong>: <em>Crystal Children. The road to hell is paved with good intentions, </em>they say. </p>
-<p>I'm looking into the future of all things I'm creating and it's dawning on me... this ain't going to be easy. Nothing that I don't know already. But jeez... when you pull yourself out and see everything as a third party, <em>fork me sideways</em>.</p>
-<p>To provide some context</p>
-<ul>
-<li>I wake up at 4:30am.</li>
-<li>Prepare curcumin, moringa and green tea with cacao.</li>
-<li>Slice a garlic clove to eat.</li>
-<li>Sometimes I take a cold bath.</li>
-<li>I start working at 5:00 am.</li>
-<li>I take breaks of 20 mins.</li>
-<li>I close work at 5:00 pm.</li>
-<li>I take walks, in sum, I need to cover 12km which is usually around two hours.</li>
-</ul>
-<p>So from 7pm to 11pm is my working hours to do what I love.</p>
-<p>I don't need to work a lot so I'm doing some changes so I can work from 2pm to 11pm on my stuff. <em>Discipline is your ally.</em></p>
-<p>I'm lucky enough to be strict with me. Sometimes I think I enjoy suffering. In my defense, I like to push my limits whenever I can.</p>
-<p><em>The expected journey is what it is: all the great things in life require sacrifices... </em>There is no escape and I'm certainly not the exception. Passion and love goes out the window as time passes.</p>
-<p>In the end, <em>focus, commitment and sheer will</em> is what keeps you going... <strong><em>I</em><em>n life, love, and work...</em></strong></p>
-<p><em>To the struggle 🍻</em></p>
             ]]>
         </content>
     </entry>
