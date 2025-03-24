@@ -3,12 +3,55 @@
     <title>devblog</title>
     <link href="https://salta-studio.github.io/devblog/feed.xml" rel="self" />
     <link href="https://salta-studio.github.io/devblog" />
-    <updated>2025-03-22T14:27:39-06:00</updated>
+    <updated>2025-03-24T05:47:36-06:00</updated>
     <author>
         <name>thelastinuit</name>
     </author>
     <id>https://salta-studio.github.io/devblog</id>
 
+    <entry>
+        <title>[viatorem] no.XIX</title>
+        <author>
+            <name>thelastinuit</name>
+        </author>
+        <link href="https://salta-studio.github.io/devblog/viatorem-noxix/index.html"/>
+        <id>https://salta-studio.github.io/devblog/viatorem-noxix/index.html</id>
+            <category term="[viatorem]"/>
+
+        <updated>2025-03-24T05:47:36-06:00</updated>
+            <summary>
+                <![CDATA[
+                    While writing Viatorem, I noticed that I was still hyper-hyped with OÜ, the language I will use across the stories of my Cosmos. I found OÜ... as I needed to remember it. And suddenly, when I sat down to type more about Viatorem story I started&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>While writing <strong>Viatorem, </strong>I noticed that I was still hyper-hyped with <strong>OÜ, </strong>the language I will use across the stories of my Cosmos. I found <strong>OÜ</strong>... as I needed to remember it. And suddenly, when I sat down to type more about <strong>Viatorem</strong> story I started to have this vision of the <em>AI</em> that <strong>Viatorem</strong>'s spaceship will have. One thing led to another and I ended up coding a tiny engine that uses quantum randomness to do a tarot draw. I called <strong>KOIMON.</strong></p>
+<p>In the beginning, the name started to be a tribute to<strong> <a href="https://www.instagram.com/koimoons/"> koimoons</a> </strong>but then everything started to fit without any effort. I needed a fictional AI that would be a companion to Viatorem on her travels. I also wanted that such AI has an intimate knowledge of the spaceship like it was the spaceship itself. The final touch I wanted to add was that I needed the spaceship to have a sort of hardware/software engine that tunes itself in the fabric of the Cosmos and provides information to <strong>Viatorem</strong>, like an oracle. Then, the name KOIMON came to mind</p>
+<p class="msg msg--highlight "><strong data-start="405" data-end="427">Japanese "Koi" (鯉)</strong> – The koi fish symbolizes <strong data-start="454" data-end="499">perseverance, transformation, and <em>destiny</em></strong>.<br data-start="500" data-end="503">In mythology, koi swim upstream and become dragons—perfect for a being that evolves and awakens.</p>
+<p><em>Destiny. </em>Exactly what I was looking for 😍😍😍</p>
+<p class="msg msg--success align-center"><strong>K</strong><em>nowledge<br></em><strong>O</strong><em>perating</em><br><strong>I</strong><em>nterface</em><br><strong>MON</strong><em>itor<br></em></p>
+<p>After that, I started to get this visions:</p>
+<ul>
+<li><em>What if <strong>KOIMON</strong> is a system that taps into quantum randomness to gather information that is codified?</em></li>
+<li><em>What if we integrate mystical stuff into the story like the <strong>tarot</strong>?</em></li>
+</ul>
+<p>I started to remember the <a href="https://noosphere.princeton.edu/">Global Consciousness Project</a> and then <a href="https://www.randonautica.app/">Randonautica</a>. So I said</p>
+<ul>
+<li><em>Wait a second, what if I use a Quantum Random Number Generator for my own experiments?</em></li>
+<li><em>I can map the numbers to a prime number and then a prime number represents a tarot card!</em></li>
+<li><em>What if <strong>KOIMON</strong> is an interface that provides intimate knowledge of what could be through a tarot reading!?</em></li>
+<li>HOLD ON... I can actually do that! Not just for the story BUT actually code the engine!!!!! 🤯🤯🤯</li>
+</ul>
+<p>Lo and behold, an hour later I had <strong>KOIMON. </strong>I tested it out with my own questions. I asked one of my closest friend to test it out and it <em>dogdamned</em> work!!</p>
+<p>Yesterday was a crazy day... I felt I was living my own story...</p>
+<blockquote>
+<p>am I becoming Viatorem!?</p>
+</blockquote>
+<p>And finally, the name of the spaceship is <em><strong>no.XIX</strong></em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>[salta.studio] OÜ Applications</title>
         <author>
@@ -358,46 +401,6 @@
         <content type="html">
             <![CDATA[
                 <figure class="post__image post__image--center"><img loading="lazy"  src="https://salta-studio.github.io/devblog/media/posts/6/Screenshot-2025-03-14-at-23.11.39.png" alt="" width="1444" height="1854" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://salta-studio.github.io/devblog/media/posts/6/responsive/Screenshot-2025-03-14-at-23.11.39-xs.webp 300w ,https://salta-studio.github.io/devblog/media/posts/6/responsive/Screenshot-2025-03-14-at-23.11.39-sm.webp 480w ,https://salta-studio.github.io/devblog/media/posts/6/responsive/Screenshot-2025-03-14-at-23.11.39-md.webp 768w"></figure>🥰🥰🥰🥰🥰🥰🥰🥰🥰<br>🤭🤭🤭</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>[dr. naríz.y.sus.demonios] práctica hace al maestro</title>
-        <author>
-            <name>thelastinuit</name>
-        </author>
-        <link href="https://salta-studio.github.io/devblog/dr-nariz-y-sus-demonios/index.html"/>
-        <id>https://salta-studio.github.io/devblog/dr-nariz-y-sus-demonios/index.html</id>
-            <category term="[dr.nariz.y.sus.demonios]"/>
-
-        <updated>2025-03-13T19:16:38-06:00</updated>
-            <summary>
-                <![CDATA[
-                    Tengo la premisa y el final del puppet show que llamo Dr. Naríz y sus Demonios. Tengo una vaga idea de cómo será su físico aunque involucra mucho espuma y soporte. Definitivamente su mecánica no será la misma que un puppet tradicional. Solo se moverá el bigote.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image post__image--center"><img loading="lazy"  src="https://salta-studio.github.io/devblog/media/posts/5/IMG_6013.png" alt="" width="800" height="600" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://salta-studio.github.io/devblog/media/posts/5/responsive/IMG_6013-xs.webp 300w ,https://salta-studio.github.io/devblog/media/posts/5/responsive/IMG_6013-sm.webp 480w ,https://salta-studio.github.io/devblog/media/posts/5/responsive/IMG_6013-md.webp 768w"></figure>
-<p>Tengo la premisa y el final del puppet show que llamo <strong>Dr. Naríz y sus Demonios.</strong></p>
-<p>Tengo una vaga idea de cómo será su físico aunque involucra mucho espuma y soporte. Definitivamente su mecánica no será la misma que un puppet tradiciona<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">l. Solo se moverá el bigote. De los anteojos aún no estoy seguro.</span></p>
-<p>La idea de este show me llegó en un viaje con DMT. Me topé en un lugar donde todo era muy oscuro.</p>
-<figure class="post__image post__image--left"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-right: 1.37143rem; color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://salta-studio.github.io/devblog/media/posts/5/drnariz.png" alt="" width="224" height="207" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://salta-studio.github.io/devblog/media/posts/5/responsive/drnariz-xs.webp 300w ,https://salta-studio.github.io/devblog/media/posts/5/responsive/drnariz-sm.webp 480w ,https://salta-studio.github.io/devblog/media/posts/5/responsive/drnariz-md.webp 768w"></figure>
-<p>Sentía la vibración de miedo y logré ver <em>demonios</em> por darles un nombre. Sentía como querían que tuviera miedo pero sentí como algo me tocaba el hombro solo sentía paz. En ese momento entendí o me hicieron entender que todo está bien que no había razón de temer. Me llegó el pensamiento que <em>algo es bueno o malo</em>, <em>las cosas solo son y cada ser es un mundo complejo</em>. <em>Que hacer un juicio era muy injusto</em>. Después de un rato regresé. </p>
-<figure class="post__image post__image--right"><img loading="lazy"  src="https://salta-studio.github.io/devblog/media/posts/5/Trim-GIF-from-Personal-Mail.GIF" alt="" width="282" height="500"></figure>Después de varios días e integración de lo que viví. Me llegó esa idea. ¿Qué tal si hay un psicólogo interdimensional que da terapia a los demonios? ¿Qué tal si esos demonios tiene crisis existencial y quieren integrar su luz? Vamos, así como los humanos intentan integrar su sombra, pensé <em>¿por qué no ellos integran su luz?</em>  y así nació <strong>Dr. Naríz y sus Demonios</strong>.</p>
-<p>He estado aprendiendo y practicando el arte de los puppets. Me topé con una gran comunidad a nivel mundial. <em>Definitivamente Jim dejó el planeta un poco mejor.</em></p>
-<p>Hasta el momento he aprendido que</p>
-<ul>
-<li>El material es importante, especial mente la espuma.
-<ul>
-<li>Hay diferentes tipos y cada una sirve un propósito en particular</li>
-<li>Depende donde vivas, es difícil conseguirlas</li>
-</ul>
-</li>
-<li>Patrones. Los cortes para el esqueleto y el pelaje/piel depende mucho de que deseas lograr.</li>
-</ul>
-<p>Curiosamente no me he topado con una herramienta que tome un modelo 3D y lo haga polígono para recortar. Veo una área de oportunidad para hacer un software open source para la comunidad 🥰</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://salta-studio.github.io/devblog/media/posts/5/IMG_5982.png" alt="" width="1080" height="1750" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://salta-studio.github.io/devblog/media/posts/5/responsive/IMG_5982-xs.webp 300w ,https://salta-studio.github.io/devblog/media/posts/5/responsive/IMG_5982-sm.webp 480w ,https://salta-studio.github.io/devblog/media/posts/5/responsive/IMG_5982-md.webp 768w"></figure>
             ]]>
         </content>
     </entry>
