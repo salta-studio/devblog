@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://salta-studio.github.io/devblog/crystalchildren-sand/index.html",
+            "url": "https://salta-studio.github.io/devblog/crystalchildren-sand/index.html",
+            "title": "[crystal.children] sand",
+            "summary": "One of the main reasons for Crystal Children game is exploration. I've got inspiration from games like Journey and Planet of Lana. I want the user to experience the Desert as Atlas felt it. It's been a long time since I played with Blender. I&hellip;",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://salta-studio.github.io/devblog/media/posts/16//Screenshot-2025-03-30-at-11.57.39.png\" alt=\"\" width=\"2306\" height=\"1450\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://salta-studio.github.io/devblog/media/posts/16//responsive/Screenshot-2025-03-30-at-11.57.39-xs.webp 300w ,https://salta-studio.github.io/devblog/media/posts/16//responsive/Screenshot-2025-03-30-at-11.57.39-sm.webp 480w ,https://salta-studio.github.io/devblog/media/posts/16//responsive/Screenshot-2025-03-30-at-11.57.39-md.webp 768w\"></figure>\n<p>One of the main reasons for Crystal Children game is <em>exploration</em>. I've got inspiration from games like <a href=\"https://thatgamecompany.com/journey/\">Journey</a> and <a href=\"https://thunderfulgames.com/games/planet-of-lana/\">Planet of Lana</a>. I want the user to experience the Desert as <a href=\"https://devblog.salta.studio/tags/atlas/index.html\">Atlas</a> felt it.</p>\n<p>I<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://salta-studio.github.io/devblog/media/posts/16//Screenshot-2025-03-30-at-12.06.34.png\" alt=\"\" width=\"1532\" height=\"920\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://salta-studio.github.io/devblog/media/posts/16//responsive/Screenshot-2025-03-30-at-12.06.34-xs.webp 300w ,https://salta-studio.github.io/devblog/media/posts/16//responsive/Screenshot-2025-03-30-at-12.06.34-sm.webp 480w ,https://salta-studio.github.io/devblog/media/posts/16//responsive/Screenshot-2025-03-30-at-12.06.34-md.webp 768w\"></figure>t's been a long time since I played with Blender. I have used Maya and 3DMax in my younger years but I recall nothing. I stayed with Blender because I believe in open source and it's a fantastic tool for 3D purposes.</p>\n<p>In my wildest dream, I want the player to be able to surf on high dunes and also at night.</p>\n<p>I remember an experience I had in my camping days. It was almost sunset and I needed to set up my camping. I spent more time than I needed in finding a place because the dunes were so precious. I ended up settling in a valley surrounded by dunes 😊😊😊</p>\n<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://salta-studio.github.io/devblog/media/posts/16//Screenshot-2025-03-30-at-12.01.29.png\" alt=\"\" width=\"1940\" height=\"972\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://salta-studio.github.io/devblog/media/posts/16//responsive/Screenshot-2025-03-30-at-12.01.29-xs.webp 300w ,https://salta-studio.github.io/devblog/media/posts/16//responsive/Screenshot-2025-03-30-at-12.01.29-sm.webp 480w ,https://salta-studio.github.io/devblog/media/posts/16//responsive/Screenshot-2025-03-30-at-12.01.29-md.webp 768w\"></figure>The solitude was great but the sea and the high dunes added a bonus of nostalgia as If I came from a desert planet or something.</p>\n<p>Atlas, however, experienced a desperate and forced solitude. Not only that, it was just a kid finding her way on a desert planet. How will I manage to do that... <em>I wonder</em>.</p>\n<p>These samples are more like for display. I have no idea how I'm going to integrate that as the landscape in the game. </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://salta-studio.github.io/devblog/media/posts/16/Screenshot-2025-03-30-at-12.39.08.png\" alt=\"\" width=\"1052\" height=\"1534\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://salta-studio.github.io/devblog/media/posts/16/responsive/Screenshot-2025-03-30-at-12.39.08-xs.webp 300w ,https://salta-studio.github.io/devblog/media/posts/16/responsive/Screenshot-2025-03-30-at-12.39.08-sm.webp 480w ,https://salta-studio.github.io/devblog/media/posts/16/responsive/Screenshot-2025-03-30-at-12.39.08-md.webp 768w\"></figure>",
+            "author": {
+                "name": "thelastinuit"
+            },
+            "tags": [
+                   "[crystal.children]"
+            ],
+            "date_published": "2025-03-30T12:35:44-06:00",
+            "date_modified": "2025-03-30T18:08:45-06:00"
+        },
+        {
             "id": "https://salta-studio.github.io/devblog/viatorem-noxix/index.html",
             "url": "https://salta-studio.github.io/devblog/viatorem-noxix/index.html",
             "title": "[viatorem] no.XIX",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2025-03-15T09:14:00-06:00",
             "date_modified": "2025-03-19T06:34:52-06:00"
-        },
-        {
-            "id": "https://salta-studio.github.io/devblog/viatorem-cristal-children/index.html",
-            "url": "https://salta-studio.github.io/devblog/viatorem-cristal-children/index.html",
-            "title": "[viatorem] crystal children",
-            "summary": "🥰🥰🥰🥰🥰🥰🥰🥰🥰 🤭🤭🤭",
-            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://salta-studio.github.io/devblog/media/posts/6/Screenshot-2025-03-14-at-23.11.39.png\" alt=\"\" width=\"1444\" height=\"1854\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://salta-studio.github.io/devblog/media/posts/6/responsive/Screenshot-2025-03-14-at-23.11.39-xs.webp 300w ,https://salta-studio.github.io/devblog/media/posts/6/responsive/Screenshot-2025-03-14-at-23.11.39-sm.webp 480w ,https://salta-studio.github.io/devblog/media/posts/6/responsive/Screenshot-2025-03-14-at-23.11.39-md.webp 768w\"></figure>🥰🥰🥰🥰🥰🥰🥰🥰🥰<br>🤭🤭🤭</p>",
-            "author": {
-                "name": "thelastinuit"
-            },
-            "tags": [
-                   "[viatorem]"
-            ],
-            "date_published": "2025-03-14T23:15:11-06:00",
-            "date_modified": "2025-03-19T06:34:56-06:00"
         }
     ]
 }
