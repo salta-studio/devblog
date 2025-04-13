@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://salta-studio.github.io/devblog/teteo-a-god-child/index.html",
+            "url": "https://salta-studio.github.io/devblog/teteo-a-god-child/index.html",
+            "title": "[teteo] a god child",
+            "summary": "Before Atlas, I have this story a young god. It came to me when I was nomad-working in Oaxaca. During my stay, I took a niños santos trip. The trip itself was amazing. What blew my mind was the two lights over the sky and the&hellip;",
+            "content_html": "<p>Before <em><a href=\"https://devblog.salta.studio/tags/atlas/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Atlas</a>, </em>I have this story a young god. It came to me when I was nomad-working in Oaxaca. During my stay, I took a <a href=\"https://www.informador.mx/estilo/Que-eran-los-Ninos-Santos-Segun-Maria-Sabina-20241119-0077.html\" target=\"_blank\" rel=\"noopener noreferrer\"><em>niños santos</em></a> trip. The trip itself was amazing. What blew my mind was the two lights over the sky and the beings that visited us.</p>\n<p>Actually, it was two stories. One was an ancient gazette in the times of the Aztec Empire. It was a comic about the lives of women during the empire. The inspiration came when I saw a lot of women in the spiritual trip, suffering. The issue was mostly, us, men. That project is still on hold. I'm waiting for the right moment to start it. </p>\n<p>The other project was <strong>Teteo. </strong>It's about a child who becomes a god by the teaching of her 'Ama. After watching those women, I sort of came to the conclusion that us men are not men. Not to blame anyone but nowadays there is no men initiation: <em>to face death and  become one with your tribe. </em></p>\n<p>I happen to believe the initiation is necessary to become a better man for yourself and the community. With such technological advancement, I don't see any progress in that. </p>\n<p>I was lucky enough to face death and learnt from it at an early age and also to go to therapy and even so I made a lot of mistakes and caused a lot of suffering to my female companions.</p>\n<p><strong>Teteo </strong>is a story of how a child becomes a god through the process of balancing his archetypes: <em>King, Warrior, Magician </em>and<em> Lover. </em>The final lesson is her 'Ama's death.</p>\n<p><strong>Teteo</strong> now is over when it comes to writing. All I need is the illustration.</p>",
+            "author": {
+                "name": "The Alkemyth"
+            },
+            "tags": [
+                   "[teteo]"
+            ],
+            "date_published": "2025-04-13T13:52:55-06:00",
+            "date_modified": "2025-04-13T13:52:55-06:00"
+        },
+        {
             "id": "https://salta-studio.github.io/devblog/crystalchildren-sand/index.html",
             "url": "https://salta-studio.github.io/devblog/crystalchildren-sand/index.html",
             "title": "[crystal.children] sand",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2025-03-17T07:45:14-06:00",
             "date_modified": "2025-03-19T06:34:45-06:00"
-        },
-        {
-            "id": "https://salta-studio.github.io/devblog/crystalchildren-debug-mode/index.html",
-            "url": "https://salta-studio.github.io/devblog/crystalchildren-debug-mode/index.html",
-            "title": "[crystal.children] debug mode",
-            "summary": "I recently finished a very long bug we had at my place work. It was very demoralizing bug. Debug mode was added by a co-worker, I have no idea what would have been without it. It took me months, around 7 months. During that time&hellip;",
-            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://salta-studio.github.io/devblog/media/posts/7/Screenshot-2025-03-15-at-9.04.59.png\" alt=\"\" width=\"2160\" height=\"1466\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://salta-studio.github.io/devblog/media/posts/7/responsive/Screenshot-2025-03-15-at-9.04.59-xs.webp 300w ,https://salta-studio.github.io/devblog/media/posts/7/responsive/Screenshot-2025-03-15-at-9.04.59-sm.webp 480w ,https://salta-studio.github.io/devblog/media/posts/7/responsive/Screenshot-2025-03-15-at-9.04.59-md.webp 768w\"></figure>\n<p>I recently finished a very long bug we had at my place work. It was very demoralizing bug. Debug mode was added by a co-worker, I have no idea what would have been without it.</p>\n<p>It took me months, around 7 months. During that time I took detours to gain some morale. By the end of the road, taking detour was destroying my soul. I even took vacation days and didn't work.</p>\n<p>But finally, I managed to fix it perhaps I'm romanticizing the whole thing after all 🦁🦁🦁. I did make progress along the way but that didn't help with my morale.</p>\n<p>For <strong><em>Crystal Children, </em></strong>I'm adding some debug information. I'm pretty sure I'll mess up the performance and such 😮‍💨😮‍💨😮‍💨</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://salta-studio.github.io/devblog/media/posts/7/Screenshot-2025-03-15-at-9.05.25.png\" alt=\"\" width=\"2492\" height=\"1472\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://salta-studio.github.io/devblog/media/posts/7/responsive/Screenshot-2025-03-15-at-9.05.25-xs.webp 300w ,https://salta-studio.github.io/devblog/media/posts/7/responsive/Screenshot-2025-03-15-at-9.05.25-sm.webp 480w ,https://salta-studio.github.io/devblog/media/posts/7/responsive/Screenshot-2025-03-15-at-9.05.25-md.webp 768w\"></figure>",
-            "author": {
-                "name": "The Alkemyth"
-            },
-            "tags": [
-                   "[crystal.children]"
-            ],
-            "date_published": "2025-03-15T09:14:00-06:00",
-            "date_modified": "2025-03-19T06:34:52-06:00"
         }
     ]
 }
