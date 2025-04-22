@@ -3,12 +3,39 @@
     <title>devblog</title>
     <link href="https://salta-studio.github.io/devblog/feed.xml" rel="self" />
     <link href="https://salta-studio.github.io/devblog" />
-    <updated>2025-04-17T00:58:34-06:00</updated>
+    <updated>2025-04-21T18:25:06-06:00</updated>
     <author>
         <name>he and her</name>
     </author>
     <id>https://salta-studio.github.io/devblog</id>
 
+    <entry>
+        <title>[salta.studio] empanacho</title>
+        <author>
+            <name>he and her</name>
+        </author>
+        <link href="https://salta-studio.github.io/devblog/saltastudio-empanacho/index.html"/>
+        <id>https://salta-studio.github.io/devblog/saltastudio-empanacho/index.html</id>
+            <category term="[salta.studio]"/>
+
+        <updated>2025-04-21T18:25:06-06:00</updated>
+            <summary>
+                <![CDATA[
+                    A couple of years ago, I was hired by a Japanese company. I was happy since I have started a video game called Empanacho: The Search for the One True Empanada. But I learnt that the offer I got from the company was enough money. In&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A couple of years ago, I was hired by a Japanese company. I was happy since I have started a video game called <strong>Empanacho:</strong> <em>The Search for the One True Empanada. </em>But I learnt that the offer I got from the company was enough money. In the end I decided not to move to Tokyo.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://salta-studio.github.io/devblog/media/posts/20/Screen-Recording-Apr-21-2025.gif" alt="" width="2100" height="1156"></figure>
+<p>However, I did not enjoy that I cancelled <strong>Empanacho. </strong>The reason was childish from on part. Anyway, I decided that I will 🤭🤭🤭</p>
+<p>I started to learn GameMaker. I decided to change the approach from using <strong>Godot. </strong>Even though I do like <strong>Godot, </strong>I wanted to move faster or at least with more support. One of my favorite games is <a href="https://katanazero.com/" target="_blank" rel="noopener noreferrer">Katana Zero</a>, it was developed in GameMaker and I really love the mechanics <a href="https://twitter.com/askiisoft" target="_blank" rel="noopener noreferrer"><em>Justin</em></a> managed to deliver in such a great game.</p>
+<p><strong>Empanacho:</strong> <em>The Search for the One True Empanada </em>is a love story out of this world. <strong>Empanacho</strong> is a raccoon who stumbles upon <em>The One True Empanada </em>and gets into an altered state<em>. </em>Once <strong>Empanacho</strong> sees the truth of reality, he comes back to reality only to see that <em>The One True Empanada</em> is gone. He embarks to search <em>The One True Empanada </em>but he learns that there is evil who also wants to have it. </p>
+<p><em>The One True Empanada</em> allows you to control reality, however, <strong>Empanacho</strong> is not interested in that. He saw what true <em>love really is </em>and he made a promise to himself to find it and protect her.</p>
+<p><strong>Empanacho:</strong> <em>The Search for the One True Empanada </em>will be a pixel art game with awesome action and more.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>[salta.studio] eylae</title>
         <author>
@@ -452,38 +479,6 @@
 <p>I'm grateful for what my life has become especially with this forsaken global situation.</p>
 <p class="align-center">✨✨✨<br>🌌🌌🌌</p>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>[salta.studio] about immortality</title>
-        <author>
-            <name>he and her</name>
-        </author>
-        <link href="https://salta-studio.github.io/devblog/saltastudio-about-immortality/index.html"/>
-        <id>https://salta-studio.github.io/devblog/saltastudio-about-immortality/index.html</id>
-            <category term="[salta.studio]"/>
-
-        <updated>2025-03-17T16:35:29-06:00</updated>
-            <summary>
-                <![CDATA[
-                    I touch many subjects in my stories. Some of my friends are surprised by the subjects I choose to write about. As an example, I'm utterly and completely terrified about immortality. While I write stories, either in my head or on paper, most of the ideas&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I touch many subjects in my stories. Some of my friends are surprised by the subjects I choose to write about. As an example, I'm utterly and completely terrified about <em><strong>immortality.</strong></em></p>
-<p>While I write stories, either in my head or on paper, most of the ideas are sad but profound subjects when it comes to human existence. From time to time, I add happy moments, just like life. </p>
-<p>Like any artistic person, I, for one, believe during the process of creating, more ideas get downloaded. Recently, I came up with a tiny little story in the form of a rhyme. This is clearly a projection of my fear. I don't think immortality is a good idea. So I imagine we have a choice. The following is a possible scenario in the form of rhymed storytelling, if you will</p>
-<p class="align-center" data-start="27" data-end="195"><strong>The Simple But Sad Story of Mr. Feinberg</strong></p>
-<p class="align-center" data-start="27" data-end="195">Mr. Feinberg, you learned it true<br data-start="65" data-end="68">Immortality stays—consciousness grew<br data-start="109" data-end="112">Yet love once cherished passed away<br data-start="152" data-end="155">And none remain to light your way</p>
-<p class="align-center" data-start="197" data-end="367">Mr. Feinberg, what will you do?<br data-start="232" data-end="235">She drifts where stars shine cold and blue<br data-start="282" data-end="285">The Cosmos swells, it pulls apart<br data-start="323" data-end="326">No matter time, no bridge to heart</p>
-<p class="align-center" data-start="369" data-end="525">Yes, Mr. Feinberg, you may choose<br data-start="407" data-end="410">To let it end, to cut it loose<br data-start="445" data-end="448">Yes, Mr. Feinberg, pain won't fade<br data-start="487" data-end="490">Eternal life—a cruel charade</p>
-<p class="align-center" data-start="527" data-end="672">A final mezcal, a sunset’s glow<br data-start="563" data-end="566">A whisper soft, a last shadow<br data-start="600" data-end="603">Mr. Feinberg, you cease to be<br data-start="637" data-end="640">No longer bound to memory</p>
-<p class="align-center" data-start="674" data-end="839">Here lies the tale, somber and deep<br data-start="714" data-end="717">A man whose love refused to sleep<br data-start="755" data-end="758">Even in death, it held on tight<br data-start="794" data-end="797">A love that burned beyond the night</p>
-<p class="align-center" data-start="841" data-end="926">Rest in peace, dear friend so true<br data-start="880" data-end="883"><em>Immortality</em> was bittersweet with <em>you<br></em></p>
-<p data-start="841" data-end="926"> </p>
-<p data-start="841" data-end="926"><em><strong>PS: </strong>I'm retaking drawing daily now, I hope soon add some images to these posts </em>🤞🏻🤞🏻🤞🏻</p>
             ]]>
         </content>
     </entry>
